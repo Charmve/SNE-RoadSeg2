@@ -76,7 +76,7 @@ and the weights will be saved in `checkpoints` and the tensorboard record contai
 ## Citation
 
 <p align="center">
-<img src="./paper-surface.jpg" width="100%"/>
+<img src="./paper-surface.jpg">
 </p>
 [<a href="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750341.pdf" target="_blank">paper</a>] | [<a href="https://www.youtube.com/watch?v=wWrZhDuh6xc&t=10s" target="_blank">video</a>]
 
