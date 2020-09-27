@@ -76,10 +76,9 @@ and the weights will be saved in `checkpoints` and the tensorboard record contai
 ## Citation
 
 <p align="center">
-<img src="doc/kitti.gif" width="100%"/>
+<img src="./paper-surface.jpg" width="100%"/>
 </p>
-[paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750341.pdf) | [video](https://www.youtube.com/watch?v=wWrZhDuh6xc&t=10s)
-
+[<a href="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750341.pdf" target="_blank">paper</a>] | [<a href="https://www.youtube.com/watch?v=wWrZhDuh6xc&t=10s" target="_blank">video</a>]
 
 ## Acknowledgement
 Our code is inspired by [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix), and we thank [Jun-Yan Zhu](https://github.com/junyanz) for their great work.
