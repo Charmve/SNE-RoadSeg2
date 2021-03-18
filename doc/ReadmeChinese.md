@@ -78,7 +78,7 @@ bash ./scripts/train.sh
 ## 引用
 
 <p align="center">
-<img src="./paper-surface.jpg">
+<img src="../paper-surface.jpg">
 </p>
 [<a href="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750341.pdf" target="_blank">paper</a>] | [<a href="https://www.youtube.com/watch?v=wWrZhDuh6xc&t=10s" target="_blank">video</a>]
 
