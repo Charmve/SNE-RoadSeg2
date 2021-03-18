@@ -1,3 +1,5 @@
+[简体中文](doc/ReadmeChinese.md)
+
 # SNE-RoadSeg2
 
 
