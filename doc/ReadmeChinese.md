@@ -8,12 +8,12 @@ SNE-RoadSeg2基于**SNE-RoadSeg：将表面法线信息纳入语义分割以进�
 在此仓库中，我们为[KITTI道路数据集](http://www.cvlibs.net/datasets/kitti/eval_road.php)提供了训练和测试配置。 此项目源代码已经在Python 3.7，CUDA 10.0，cuDNN 7和PyTorch 1.1环境中测试，并且提供了`Dockerfile`来构建我们使用的docker镜像。
 
 <p align="center">
-<img src="doc/kitti.gif" width="100%"/>
+<img src="kitti.gif" width="100%"/>
 </p>
 <br>
 
 <p align="center">
-<img src="doc/sne-roadseg.png" width="100%"/>
+<img src="sne-roadseg.png" width="100%"/>
 </p>
 
 ## Setup
